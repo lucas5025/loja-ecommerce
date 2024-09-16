@@ -1,0 +1,117 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Processador AMD Ryzen 5 5600X, 3.7GHz (4.6GHz Max Turbo), 6 Núcleos, 12 Threads",
+      "image": "/images/products/processador-amd-ryzen.jpeg",
+      "rating": 4,
+      "price": 850
+    },
+    {
+      "id": 2,
+      "name": "Placa Mãe MSI MPG B550 Gaming Plus, AMD AM4, Chipset B550, ATX, DDR4 ",
+      "image": "/images/products/placa-mae-msi-mpg-b550.jpeg",
+      "rating": 5,
+      "price": 899
+    },
+    {
+      "id": 3,
+      "name": "Placa Mãe ASRock B450M Steel Legend, AMD AM4, mATX, DDR4, A0UAYZ",
+      "image": "/images/products/placa-mae-asrock-b450m-steel-legend-amd-am4-matx-ddr4.jpeg",
+      "rating": 5,
+      "price": 714
+    },
+    {
+      "id": 4,
+      "name": "Processador Intel Core i5-10400F, 2.9GHz (4.3GHz Max Turbo), Cache 12MB, 6 Núcleos",
+      "image": "/images/products/processador-intel-core-i5-10400f-cache-12mb.jpeg",
+      "rating": 3,
+      "price": 699
+    },
+    {
+      "id": 5,
+      "name": "Fonte BRX Rainbow Series, 850W, 80 Plus Bronze, PFC Ativo, Bivolt, RGB, Cooler 120mm RGB",
+      "image": "/images/products/fonte-brx-rainbow-rgb-650w.jpg",
+      "rating": 5,
+      "price": 699
+    },
+    {
+      "id": 6,
+      "name": "Gabinete Gamer SuperFrame Cube, Mid Tower, Vidro Temperado, ATX, Black, Sem Fonte, Sem Fan",
+      "image": "/images/products/gabinete-gamer-superframe-cube-mid-tower.jpg",
+      "rating": 5,
+      "price": 499
+    },
+    {
+      "id": 7,
+      "name": "Gabinete Gamer SuperFrame Prime, Mid Tower, Vidro Temperado, M-ATX, Branco, Sem Fonte, Sem Fan",
+      "image": "/images/products/gabinete-gamer-superframe-prime-mid-tower.jpg",
+      "rating": 4,
+      "price": 327
+    },
+    {
+      "id": 8,
+      "name": "Teclado Gamer Magnético Akko MOD 007B HE, Keycaps Herb Garden, Switch Cream Yellow, RGB, ANSI, Bluetooth",
+      "image": "/images/products/teclado-gamer-magnetico-akko-mod-007b.jpg",
+      "rating": 5,
+      "price": 1469
+    },
+    {
+      "id": 9,
+      "name": "Kit Fan Com 3 Unidades Gamer Ninja Fuuton, ARGB, 120mm, Black",
+      "image": "/images/products/kit-fan-com-3-unidades-gamer-ninja.jpg",
+      "rating": 5,
+      "price": 99
+    },
+    {
+      "id": 10,
+      "name": "Water Cooler SuperFrame ISENGARD SMART, ARGB, 360mm, Intel-AMD",
+      "image": "/images/products/water-cooler-superframe-isengard-smart-argb-360mm.jpg",
+      "rating": 5,
+      "price": 499
+    },
+    {
+      "id": 11,
+      "name": "Memória DDR4 Kingston Fury Beast RGB, 16GB (2x8GB), 3600Mhz, Preto, ",
+      "image": "/images/products/memoria-ddr4-kingston-fury-beast-rgb-16gb-2x8gb-3600mhz.jpg",
+      "rating": 4,
+      "price": 479
+    },
+    {
+      "id": 12,
+      "name": "Mouse Gamer Redragon King Pro, Wireless, Bluetooth, 26000 DPI, 7 Botões, Preto,PRO-1K",
+      "image": "/images/products/mouse-gamer-redragon-king-pro-wireless-26000-dpi-7-botoes-preto.jpg",
+      "rating": 5,
+      "price": 299
+    },
+    {
+      "id": 13, 
+      "name": "Headset Gamer Fifine SuperFrame Edition SFH6, 7.1 Surround, Drivers de 50mm",
+      "image": "/images/products/headset-gamer-fifine-superframe.jpg",
+      "rating": 4,
+      "price": 179
+  },
+  {
+    "id": 14, 
+    "name": "Placa de Vídeo Gigabyte NVIDIA GeForce RTX 4060 EAGLE OC, 8GB, GDDR6,",
+    "image": "/images/products/placa-de-video-rtx-4060.jpeg",
+    "rating": 4,
+    "price": 2000
+    
+},
+{
+  "id": 15, 
+  "name": "PC Gamer Neologic, AMD Ryzen 5 5500 16GB, 8GB RAM, RTX 4060, SSD 480GB,",
+  "image": "/images/products/PC-Gamer-Neologic-AMD-Ryzen-5-5500-16GB-8GB-RAM-RTX-4060.jpeg",
+  "rating": 4,
+  "price": 5299
+},
+{ 
+   "id": 16,
+   "name": "Pc Gamer Fácil Intel Core I7 4 Geração 16gb Gtx 1050 Ti 4gb Ssd 480gb - Fonte 500w",
+   "image": "/images/products/Pc-Gamer-F-cil-Intel-Core-I7-4-Gera-o-16gb-Gtx-1050-Ti.jpeg",
+   "rating": 5,
+   "price":2199
+}
+  ]
+}
